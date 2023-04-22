@@ -11,7 +11,7 @@ print(x)
 i= 100 
 print(i)
 
-for i in range(1,5):
+for i in range(5):
     print(i)
 
 print("This is outside of the for loop " + str(i))
